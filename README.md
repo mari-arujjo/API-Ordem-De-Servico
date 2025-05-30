@@ -1,4 +1,4 @@
-# API-Ordem-De-Servico
+# ASP.NET Core Web API
 
 ## Esse repositório contém o processo de construção de uma Web API teste em ASP.NET Core, utilizando C# e Entiny Framework.
 
